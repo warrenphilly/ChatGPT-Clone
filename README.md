@@ -8,4 +8,4 @@ To run the server, cd into server and run "npm run server"
 
 Then ask A.N.N-i anything
 
-to use, you will require an API key from openAI(this is free) and an .env file in your env file, say=ve your api key in the enviroment variable "API_KEY". Save your ".env" file in the "server" folder
+to use, you will require an API key from openAI(this is free) and an .env file. In your env file, save your api key in the enviroment variable "API_KEY". Save your ".env" file in the "server" folder
